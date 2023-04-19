@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="sjtu@202.120.40.157:9997 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="root@202.120.40.157:50002 password">
         <serverdata>
@@ -26,7 +27,7 @@
       <paths name="sjtu@202.120.40.157:9997 password">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/sjtu/yyz" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
