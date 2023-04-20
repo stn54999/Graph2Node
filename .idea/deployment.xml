@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="sjtu@202.120.40.157:9997 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sjtu@202.120.40.157:9997 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="root@202.120.40.157:50002 password">
@@ -27,10 +27,11 @@
       <paths name="sjtu@202.120.40.157:9997 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/sjtu/yyz" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/sjtu/yyz/Graph2Node" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
